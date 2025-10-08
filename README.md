@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **3rd-year Software Engineering student** at Maltepe University, dedicated to creating innovative solutions that make technology accessible and impactful. My journey spans from building full-stack applications to developing machine learning models for real-world problems.
+I'm a passionate **4th-year Software Engineering student** at Maltepe University, dedicated to creating innovative solutions that make technology accessible and impactful. My journey spans from building full-stack applications to developing machine learning models for real-world problems.
 
 - 🎓 **Currently studying:** Software Engineering 
 - 🔭 **Working on:** Location-based applications and advanced ML projects
