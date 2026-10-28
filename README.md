@@ -15,32 +15,14 @@ I'm especially interested in what happens between a question and an answer: find
 
 ## Selected work
 
-<table><tr><td>
+<p align="center">
+  <a href="https://chartezian.com"><img src="./assets/project-chartezian.svg" width="400" alt="Chartezian: natural language analytics over relational databases. My work includes architecture, retrieval, SQL validation, backend, and visualization. Supported by TÜBİTAK 2209-B and 1002-A. Open platform." /></a>
+  <a href="https://vusexplain.vercel.app/"><img src="./assets/project-vus-explain.svg" width="400" alt="VUS-Explain: explainable genetic variant interpretation. CureCode team captain, contributing to AI modeling and explainability. Third place, TEKNOFEST 2026 AI in Healthcare, University and Above. Open interface demo." /></a>
+  <a href="https://bio-node.vercel.app/"><img src="./assets/project-bionode.svg" width="400" alt="BioNode: bioacoustic monitoring concept for biodiversity and threat detection. I worked on acoustic architecture, website, and dashboard. First among 153 teams at the Climate Ideathon. Open prototype." /></a>
+  <a href="https://github.com/FurkanAksoyy/GuardBoxAndroidApp"><img src="./assets/project-guardbox.svg" width="400" alt="GuardBox: IoT parcel security with remote access and tamper alerts. I developed the Kotlin Android app and Firebase integration. Explore Android source code." /></a>
+</p>
 
-### 01 · Chartezian
-**Turkish questions. SQL answers.**
-
-I'm building natural language analytics over relational databases, from finding the right schema context and validating SQL to delivering charts and reports.
-
-Supported by **TÜBİTAK 2209-B & 1002-A**, with **Token Financial Technologies** as the industrial partner.
-
-[Explore Chartezian →](https://chartezian.com)
-
-</td></tr></table>
-
-### 02 · VUS-Explain
-
-Explainable genetic variant interpretation. As **CureCode's team captain**, I contributed to AI modeling and explainability. **3rd place, TEKNOFEST 2026 AI in Healthcare (University and Above).** [Interface demo →](https://vusexplain.vercel.app/)
-
-### 03 · BioNode
-
-A bioacoustic monitoring concept for biodiversity and early threat detection. I worked on the acoustic monitoring architecture, website, and dashboard. **1st among 153 teams, Climate Ideathon.** [Prototype →](https://bio-node.vercel.app/)
-
-### 04 · GuardBox
-
-An IoT parcel security system with remote lock control, delivery monitoring, and tamper alerts. I developed the **Kotlin Android app and Firebase integration**. [Android code →](https://github.com/FurkanAksoyy/GuardBoxAndroidApp)
-
-<sub>VUS-Explain and BioNode link to demo interfaces.</sub>
+Chartezian is supported by **TÜBİTAK 2209-B & 1002-A**, with **Token Financial Technologies** as the industrial partner. VUS-Explain and BioNode link to demo interfaces.
 
 ## Code you can explore
 
@@ -50,11 +32,23 @@ An IoT parcel security system with remote lock control, delivery monitoring, and
 
 ## My toolkit
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,react,ts,kotlin,firebase,git&amp;perline=5&amp;theme=dark" alt="Python, Java, Spring Boot, FastAPI, PostgreSQL, React, TypeScript, Kotlin, Firebase, and Git" width="280" />
+### Languages
 
-**AI & data** · LLM APIs, RAG, Text-to-SQL, result validation  
-**Backend** · Python, Java, Spring Boot, FastAPI, database design  
-**Web & mobile** · React, TypeScript, Kotlin, Firebase
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,c&amp;theme=dark" alt="Python, Java, JavaScript, TypeScript, Kotlin, and C" width="330" />
+
+### Backend & web
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,react,nodejs&amp;theme=dark" alt="Spring Boot, FastAPI, Django, React, and Node.js" width="275" />
+
+### AI & data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,postgres&amp;theme=dark" alt="TensorFlow and PostgreSQL" width="110" />
+
+SQL · Pandas · NumPy · LLM APIs · RAG · Text-to-SQL · Result validation
+
+### Tools & platforms
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,firebase,aws&amp;theme=dark" alt="Git, Docker, Linux, Firebase, and AWS" width="275" />
 
 ## GitHub, at a glance
 
