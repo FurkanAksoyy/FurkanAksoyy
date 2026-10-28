@@ -30,7 +30,7 @@ Supported by **TÜBİTAK 2209-B & 1002-A**, with **Token Financial Technologies*
 
 ### 02 · VUS-Explain
 
-Explainable genetic variant interpretation. As **CureCode's team captain**, I contributed to AI modeling and explainability. **3rd place in Türkiye, TEKNOFEST 2026.** [Interface demo →](https://vusexplain.vercel.app/)
+Explainable genetic variant interpretation. As **CureCode's team captain**, I contributed to AI modeling and explainability. **3rd place, TEKNOFEST 2026 AI in Healthcare (University and Above).** [Interface demo →](https://vusexplain.vercel.app/)
 
 ### 03 · BioNode
 
