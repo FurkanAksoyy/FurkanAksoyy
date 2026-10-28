@@ -12,12 +12,60 @@ I'm especially interested in what happens between a question and an answer: find
 
 ## What I'm building
 
-| Project | What it does | My contribution |
-| :--- | :--- | :--- |
-| **[Chartezian](https://chartezian.com)** | Ask questions in Turkish, query relational databases, and explore the results through charts and reports. | System architecture, backend development, retrieval, SQL validation, and the visualization workflow. Developed with Token Financial Technologies and supported by TÜBİTAK 2209-B and 1002-A. |
-| **VUS-Explain** · [Interface demo](https://vusexplain.vercel.app/) | Research on genetic variant interpretation, bringing predictions, evidence, and uncertainty together. | Team captain of CureCode; AI modeling and explainability. **3rd place in Türkiye**, TEKNOFEST 2026 AI in Healthcare, University and Above category. |
-| **BioNode** · [Prototype demo](https://bio-node.vercel.app/) | A bioacoustic forest monitoring concept for biodiversity tracking and early threat detection. | Acoustic monitoring architecture, website, and dashboard. **1st among 153 teams** in the Climate Digital Transformation Ideathon. |
-| **[GuardBox](https://github.com/FurkanAksoyy/GuardBoxAndroidApp)** | An IoT parcel security system with remote lock control and delivery monitoring. | Kotlin Android application and Firebase integration. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Chartezian
+**Turkish questions. SQL answers.**
+
+Natural language analytics over relational databases, with charts and reports. My work spans architecture, retrieval, SQL validation, backend development, and visualization.
+
+TÜBİTAK **2209-B & 1002-A** · Token Financial Technologies
+
+**[Explore the platform →](https://chartezian.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · VUS-Explain
+**Predictions with evidence and uncertainty.**
+
+Research on explainable genetic variant interpretation. As CureCode's team captain, I contributed to AI modeling and explainability.
+
+**TEKNOFEST 2026 · 3rd place in Türkiye**
+
+**[View the interface demo →](https://vusexplain.vercel.app/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · BioNode
+**Listen to the forest. Understand the signals.**
+
+A bioacoustic monitoring concept for biodiversity and early threat detection. I worked on the acoustic monitoring architecture, website, and dashboard.
+
+**Climate Ideathon · 1st among 153 teams**
+
+**[Explore the prototype →](https://bio-node.vercel.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · GuardBox
+**A safer place for unattended deliveries.**
+
+An IoT parcel security system with remote lock control, delivery monitoring, and tamper alerts. I developed the Kotlin Android app and Firebase integration.
+
+**Kotlin · Android · Firebase · ESP32**
+
+**[Explore the Android code →](https://github.com/FurkanAksoyy/GuardBoxAndroidApp)**
+
+</td>
+</tr>
+</table>
 
 The VUS-Explain and BioNode links showcase demo interfaces. They illustrate the workflows rather than live clinical or field deployments.
 
@@ -27,14 +75,44 @@ The VUS-Explain and BioNode links showcase demo interfaces. They illustrate the 
 - **[UnstructIQ](https://github.com/FurkanAksoyy/UnstructIQ)**: data cleaning, analysis, and AI-assisted visualization with FastAPI and React.
 - **[Graduate Thesis System](https://github.com/FurkanAksoyy/Graduate-Thesis-System)**: a Django application for thesis search, submission, and management with a relational database.
 
-## Tools I work with
+## My toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| AI & data | Python, SQL, LLM APIs, RAG, Text-to-SQL |
-| Backend | Java, Spring Boot, FastAPI, Django, PostgreSQL |
-| Interfaces | React, TypeScript, JavaScript |
-| Mobile & IoT | Kotlin, Android, Firebase, ESP32 |
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>AI &amp; data</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=python,postgres&amp;theme=dark" alt="Python and PostgreSQL" height="48" /><br /><br />
+LLM APIs · RAG · Text-to-SQL
+</td>
+<td align="center" width="34%">
+<strong>Backend systems</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,django&amp;theme=dark" alt="Java, Spring Boot, FastAPI, and Django" height="48" /><br /><br />
+APIs · Database design · Validation
+</td>
+<td align="center" width="33%">
+<strong>Web &amp; mobile</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=react,ts,kotlin,firebase&amp;theme=dark" alt="React, TypeScript, Kotlin, and Firebase" height="48" /><br /><br />
+Interfaces · Android · IoT integration
+</td>
+</tr>
+</table>
+
+## A few milestones
+
+<img src="./assets/milestones.svg" alt="TEKNOFEST healthcare AI: 3rd place. BioNode climate ideathon: 1st among 153 teams. Anka Software Club: 20 events and 100+ members." width="100%" />
+
+## GitHub, at a glance
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FurkanAksoyy&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=101d1b&amp;title_color=82dbb0&amp;text_color=d0ddd4&amp;icon_color=82dbb0&amp;border_radius=14" alt="Furkan's public GitHub activity statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAksoyy&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=101d1b&amp;title_color=82dbb0&amp;text_color=d0ddd4&amp;card_width=467&amp;exclude_repo=FurkanAksoyy,open-slide&amp;border_radius=14" alt="Languages across public repositories, excluding the profile repository and open-slide" />
+</p>
+
+<p align="center">
+  <img width="76%" src="https://streak-stats.demolab.com/?user=FurkanAksoyy&amp;hide_border=true&amp;background=101D1B&amp;stroke=3B5649&amp;ring=82DBB0&amp;fire=82DBB0&amp;currStreakNum=F4F1E9&amp;sideNums=F4F1E9&amp;currStreakLabel=82DBB0&amp;sideLabels=D0DDD4&amp;dates=9CB5AB&amp;border_radius=14" alt="GitHub contribution streak" />
+</p>
+
+<p align="center"><sub>Public repository activity. Language shares describe code volume, not proficiency; private project code is not represented in the language card.</sub></p>
 
 <details>
 <summary><strong>Research & publications</strong></summary>
