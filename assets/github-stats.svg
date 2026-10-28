@@ -1,14 +1,14 @@
 
       <svg
-        width="467"
+        width="314.1999988555908"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 314.1999988555908 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Furkan Aksoy's GitHub Stats, Rank: C</title>
+        <title id="titleId">Furkan Aksoy&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 108, Total PRs: 2, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
@@ -78,6 +78,7 @@
     }
   
   
+          
 
           
       /* Animations */
@@ -98,19 +99,25 @@
         }
       }
     
-          
+          * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
+        
+        <defs>
+          
+          
+        </defs>
         
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="14"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="313.1999988555908"
           fill="#101d1b"
           stroke-opacity="0"
         />
@@ -126,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Furkan Aksoy's GitHub Stats</text>
+      >Furkan Aksoy&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -136,18 +143,7 @@
           transform="translate(0, 55)"
         >
           
-    <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-        <circle class="rank-circle" cx="-10" cy="8" r="40" />
-        <g class="rank-text">
-          
-        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
-        </text>
-      
-        </g>
-      </g>
+    
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -159,7 +155,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >0</text>
@@ -174,7 +170,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
       >108</text>
@@ -189,7 +185,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >2</text>
@@ -204,7 +200,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >0</text>
@@ -219,7 +215,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >3</text>
