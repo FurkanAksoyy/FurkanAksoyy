@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="620" viewBox="0 0 640 620" role="img" aria-labelledby="title desc">
+<title id="title">Furkan Aksoy</title><desc id="desc">Software engineer in Istanbul. AI, data, and the software between them.</desc>
+<style>.step{opacity:0;animation:trace .85s ease-out 1}.s2{animation-delay:.85s}.s3{animation-delay:1.7s}.s4{animation-delay:2.55s}@keyframes trace{0%,100%{opacity:0}30%,70%{opacity:1}}@media(prefers-reduced-motion:reduce){.step{animation:none}}</style>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d1b"/><stop offset="1" stop-color="#182925"/></linearGradient></defs>
+<rect width="640" height="620" rx="20" fill="url(#bg)"/>
+<path d="M36 40H66" stroke="#82dbb0" stroke-width="3"/>
+<text x="36" y="80" font-family="monospace" font-size="18" fill="#9cb5ab">SOFTWARE ENGINEER / ISTANBUL</text>
+<text x="32" y="160" font-family="Georgia,serif" font-size="66" fill="#f4f1e9">Furkan Aksoy</text>
+<g font-family="Arial,sans-serif" font-size="27" fill="#d0ddd4"><text x="36" y="210">AI, data, and the software</text><text x="36" y="248">between them.</text></g>
+<text x="36" y="292" font-family="monospace" font-size="19" fill="#82dbb0">TEXT-TO-SQL / BACKEND / APPLIED AI</text>
+<rect x="32" y="328" width="576" height="260" rx="12" fill="#0e1916" stroke="#3b5649"/>
+<text x="56" y="364" font-family="monospace" font-size="19" fill="#9cb5ab">question → insight</text>
+<rect class="step s1" x="46" y="383" width="548" height="40" rx="6" fill="#82dbb0" fill-opacity=".12"/><text x="56" y="412" font-family="monospace" font-size="23" fill="#82dbb0">01</text><text x="110" y="412" font-family="monospace" font-size="23" fill="#e6ebe3">Find the right context.</text>
+<rect class="step s2" x="46" y="430" width="548" height="40" rx="6" fill="#82dbb0" fill-opacity=".12"/><text x="56" y="459" font-family="monospace" font-size="23" fill="#82dbb0">02</text><text x="110" y="459" font-family="monospace" font-size="23" fill="#e6ebe3">Generate the query.</text>
+<rect class="step s3" x="46" y="477" width="548" height="40" rx="6" fill="#82dbb0" fill-opacity=".12"/><text x="56" y="506" font-family="monospace" font-size="23" fill="#82dbb0">03</text><text x="110" y="506" font-family="monospace" font-size="23" fill="#e6ebe3">Check the result.</text>
+<rect class="step s4" x="46" y="524" width="548" height="40" rx="6" fill="#82dbb0" fill-opacity=".12"/><text x="56" y="553" font-family="monospace" font-size="23" fill="#82dbb0">04</text><text x="110" y="553" font-family="monospace" font-size="23" fill="#e6ebe3">Make it useful.</text>
+</svg>
