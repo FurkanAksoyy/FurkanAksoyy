@@ -1,4 +1,7 @@
-<img src="./assets/profile-header.svg" alt="Furkan Aksoy. Software engineer working across AI, data, and backend systems." width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+  <img src="./assets/profile-header.svg" alt="Furkan Aksoy. Software engineer in Istanbul working on Text-to-SQL, backend systems, and applied AI." width="100%" />
+</picture>
 
 <p align="center">
   <a href="https://chartezian.com">Building Chartezian</a> ·
@@ -10,64 +13,34 @@ I'm a Software Engineering graduate from Maltepe University, based in Istanbul. 
 
 I'm especially interested in what happens between a question and an answer: finding the right database context, generating SQL, checking the result, and making it understandable. I also enjoy building the APIs and interfaces around that process.
 
-## What I'm building
+## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td>
 
 ### 01 · Chartezian
 **Turkish questions. SQL answers.**
 
-Natural language analytics over relational databases, with charts and reports. My work spans architecture, retrieval, SQL validation, backend development, and visualization.
+I'm building natural language analytics over relational databases, from finding the right schema context and validating SQL to delivering charts and reports.
 
-TÜBİTAK **2209-B & 1002-A** · Token Financial Technologies
+Supported by **TÜBİTAK 2209-B & 1002-A**, with **Token Financial Technologies** as the industrial partner.
 
-**[Explore the platform →](https://chartezian.com)**
+[Explore Chartezian →](https://chartezian.com)
 
-</td>
-<td width="50%" valign="top">
+</td></tr></table>
 
 ### 02 · VUS-Explain
-**Predictions with evidence and uncertainty.**
 
-Research on explainable genetic variant interpretation. As CureCode's team captain, I contributed to AI modeling and explainability.
-
-**TEKNOFEST 2026 · 3rd place in Türkiye**
-
-**[View the interface demo →](https://vusexplain.vercel.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Explainable genetic variant interpretation. As **CureCode's team captain**, I contributed to AI modeling and explainability. **3rd place in Türkiye, TEKNOFEST 2026.** [Interface demo →](https://vusexplain.vercel.app/)
 
 ### 03 · BioNode
-**Listen to the forest. Understand the signals.**
 
-A bioacoustic monitoring concept for biodiversity and early threat detection. I worked on the acoustic monitoring architecture, website, and dashboard.
-
-**Climate Ideathon · 1st among 153 teams**
-
-**[Explore the prototype →](https://bio-node.vercel.app/)**
-
-</td>
-<td width="50%" valign="top">
+A bioacoustic monitoring concept for biodiversity and early threat detection. I worked on the acoustic monitoring architecture, website, and dashboard. **1st among 153 teams, Climate Ideathon.** [Prototype →](https://bio-node.vercel.app/)
 
 ### 04 · GuardBox
-**A safer place for unattended deliveries.**
 
-An IoT parcel security system with remote lock control, delivery monitoring, and tamper alerts. I developed the Kotlin Android app and Firebase integration.
+An IoT parcel security system with remote lock control, delivery monitoring, and tamper alerts. I developed the **Kotlin Android app and Firebase integration**. [Android code →](https://github.com/FurkanAksoyy/GuardBoxAndroidApp)
 
-**Kotlin · Android · Firebase · ESP32**
-
-**[Explore the Android code →](https://github.com/FurkanAksoyy/GuardBoxAndroidApp)**
-
-</td>
-</tr>
-</table>
-
-The VUS-Explain and BioNode links showcase demo interfaces. They illustrate the workflows rather than live clinical or field deployments.
+<sub>VUS-Explain and BioNode link to demo interfaces.</sub>
 
 ## Code you can explore
 
@@ -77,42 +50,24 @@ The VUS-Explain and BioNode links showcase demo interfaces. They illustrate the 
 
 ## My toolkit
 
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>AI &amp; data</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=python,postgres&amp;theme=dark" alt="Python and PostgreSQL" height="48" /><br /><br />
-LLM APIs · RAG · Text-to-SQL
-</td>
-<td align="center" width="34%">
-<strong>Backend systems</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=java,spring,fastapi,django&amp;theme=dark" alt="Java, Spring Boot, FastAPI, and Django" height="48" /><br /><br />
-APIs · Database design · Validation
-</td>
-<td align="center" width="33%">
-<strong>Web &amp; mobile</strong><br /><br />
-<img src="https://skillicons.dev/icons?i=react,ts,kotlin,firebase&amp;theme=dark" alt="React, TypeScript, Kotlin, and Firebase" height="48" /><br /><br />
-Interfaces · Android · IoT integration
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,react,ts,kotlin,firebase,git&amp;perline=5&amp;theme=dark" alt="Python, Java, Spring Boot, FastAPI, PostgreSQL, React, TypeScript, Kotlin, Firebase, and Git" width="280" />
 
-## A few milestones
-
-<img src="./assets/milestones.svg" alt="TEKNOFEST healthcare AI: 3rd place. BioNode climate ideathon: 1st among 153 teams. Anka Software Club: 20 events and 100+ members." width="100%" />
+**AI & data** · LLM APIs, RAG, Text-to-SQL, result validation  
+**Backend** · Python, Java, Spring Boot, FastAPI, database design  
+**Web & mobile** · React, TypeScript, Kotlin, Firebase
 
 ## GitHub, at a glance
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FurkanAksoyy&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=101d1b&amp;title_color=82dbb0&amp;text_color=d0ddd4&amp;icon_color=82dbb0&amp;border_radius=14" alt="Furkan's public GitHub activity statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAksoyy&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=101d1b&amp;title_color=82dbb0&amp;text_color=d0ddd4&amp;card_width=467&amp;exclude_repo=FurkanAksoyy,open-slide&amp;border_radius=14" alt="Languages across public repositories, excluding the profile repository and open-slide" />
+  <img width="420" src="./assets/github-stats.svg" alt="Furkan's public GitHub activity statistics" />
+  <img width="420" src="./assets/github-languages.svg" alt="Language distribution across public repositories" />
 </p>
 
-<p align="center">
-  <img width="76%" src="https://streak-stats.demolab.com/?user=FurkanAksoyy&amp;hide_border=true&amp;background=101D1B&amp;stroke=3B5649&amp;ring=82DBB0&amp;fire=82DBB0&amp;currStreakNum=F4F1E9&amp;sideNums=F4F1E9&amp;currStreakLabel=82DBB0&amp;sideLabels=D0DDD4&amp;dates=9CB5AB&amp;border_radius=14" alt="GitHub contribution streak" />
-</p>
+<sub>Public repository snapshots, updated by GitHub Actions. Language shares reflect code volume; private project code is not included.</sub>
 
-<p align="center"><sub>Public repository activity. Language shares describe code volume, not proficiency; private project code is not represented in the language card.</sub></p>
+## Research & community
+
+Alongside development, I've co-authored research on Text-to-SQL, privacy, and explainable AI. I also led **Anka Yazılım Kulübü**, a community of **100+ members**, and helped organize **20 events**.
 
 <details>
 <summary><strong>Research & publications</strong></summary>
