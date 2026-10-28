@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="340" viewBox="0 0 420 340" role="img" aria-labelledby="title desc">
+<title id="title">GuardBox</title><desc id="desc">GuardBox: IoT parcel security with remote access and tamper alerts. I developed the Kotlin Android app and Firebase integration. Explore Android source code.</desc>
+<rect x="1" y="1" width="418" height="338" rx="16" fill="#101d1b" stroke="#3b5649"/>
+<path d="M28 1h68" stroke="#82dbb0" stroke-width="3"/>
+<g fill="none" stroke="#82dbb0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M348 45h36v30h-36zM358 45v-8a8 8 0 0 1 16 0v8"/><circle cx="366" cy="57" r="2"/><path d="M366 59v6"/></g>
+<text x="28" y="34" fill="#9cb5ab" font-family="monospace" font-size="13">04 / MOBILE + IoT</text>
+<text x="28" y="77" fill="#f4f1e9" font-family="Georgia,serif" font-size="30">GuardBox</text>
+<text x="28" y="112" fill="#e6ebe3" font-family="Arial,sans-serif" font-size="19">Parcel security with remote</text>
+<text x="28" y="137" fill="#e6ebe3" font-family="Arial,sans-serif" font-size="19">access and tamper alerts.</text>
+<text x="28" y="179" fill="#c0d0c5" font-family="Arial,sans-serif" font-size="18">My work: Kotlin Android app</text>
+<text x="28" y="203" fill="#c0d0c5" font-family="Arial,sans-serif" font-size="18">and Firebase integration.</text>
+<text x="28" y="258" fill="#82dbb0" font-family="Arial,sans-serif" font-size="17">Kotlin · Android · Firebase</text>
+<text x="28" y="281" fill="#82dbb0" font-family="Arial,sans-serif" font-size="17">ESP32-connected security system</text>
+<path d="M28 299h364" stroke="#3b5649"/><text x="28" y="324" fill="#f4f1e9" font-family="Arial,sans-serif" font-size="17">Explore Android code →</text></svg>
