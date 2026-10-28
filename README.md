@@ -59,8 +59,8 @@ An IoT parcel security system with remote lock control, delivery monitoring, and
 ## GitHub, at a glance
 
 <p align="center">
-  <img width="420" src="./assets/github-stats.svg" alt="Furkan's public GitHub activity statistics" />
-  <img width="420" src="./assets/github-languages.svg" alt="Language distribution across public repositories" />
+  <img width="420" src="./assets/github-stats.svg?v=3" alt="Furkan's public GitHub activity statistics" />
+  <img width="420" src="./assets/github-languages.svg?v=3" alt="Language distribution across public repositories" />
 </p>
 
 <sub>Public repository snapshots, updated by GitHub Actions. Language shares reflect code volume; private project code is not included.</sub>
