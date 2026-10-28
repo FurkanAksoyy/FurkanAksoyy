@@ -27,7 +27,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_rank=true&card_width=467&bg_color=101d1b&title_color=82dbb0&text_color=d0ddd4&icon_color=82dbb0&border_radius=14&disable_animations=true
-          path: assets/github-stats.svg
+          path: assets/activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: 'true'
 
@@ -42,7 +42,7 @@ jobs:
 
       - name: Commit refreshed cards
         run: |
-          git add assets/github-stats.svg assets/github-languages.svg
+          git add assets/activity.svg assets/github-languages.svg
           if git diff --cached --quiet; then
             exit 0
           fi
